@@ -1,4 +1,4 @@
-Paid Guest Posting Sites
+Paid Guest Posting Sites: A Complete Guide
 =========================
 .. toctree::
    :maxdepth: 2
